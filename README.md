@@ -2,6 +2,13 @@
 
 Empowering immigrants to overcome cultural and language barriers through intelligent translation, local support, and adaptive learning.
 
+![ConnectU](https://github.com/aishwaryachand/MindBridge/blob/main/mockups/connectu.jpeg)
+![Chatbot](https://github.com/aishwaryachand/MindBridge/blob/main/mockups/chatbot.jpeg)
+![Tastematch](https://github.com/aishwaryachand/MindBridge/blob/main/mockups/tastematch.jpeg)
+![Learnnest](https://github.com/aishwaryachand/MindBridge/blob/main/mockups/learnnest.jpeg)
+
+
+
 ##  Project Overview
 
 - Built an AI-driven platform using Hugging Face Transformers for dialect-aware translation across 30+ languages tailored to immigrant contexts.  
