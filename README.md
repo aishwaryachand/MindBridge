@@ -1,4 +1,4 @@
-# 🌍 Bridges from Borders – AI-Powered Cultural Integration Platform
+# 🌍 MindBridge – AI-Powered Cultural Integration Platform (Made for NGO :Bridges from Borders )
 
 Empowering immigrants to overcome cultural and language barriers through intelligent translation, local support, and adaptive learning.
 
